@@ -1,0 +1,6 @@
+pypsa>=1.0
+highspy
+streamlit>=1.40
+plotly
+pandas
+numpy
